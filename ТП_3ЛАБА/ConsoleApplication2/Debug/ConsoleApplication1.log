@@ -1,0 +1,20 @@
+﻿Сборка начата 20.05.2018 21:31:04.
+     1>Проект "C:\Users\Денис\Desktop\5 ЛАБА\5lab_dynamic_UNobvious\ConsoleApplication1\ConsoleApplication1.vcxproj" в узле 3 (целевые объекты Rebuild).
+     1>ClCompile:
+         K:\Unity1\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CONSOLEAPPLICATION1_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MyDLL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         K:\Unity1\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CONSOLEAPPLICATION1_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MyDLL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MyDLL.cpp
+         MyDLL.cpp
+         K:\Unity1\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CONSOLEAPPLICATION1_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         K:\Unity1\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Денис\Desktop\5 ЛАБА\5lab_dynamic_UNobvious\Debug\MyDLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Денис\Desktop\5 ЛАБА\5lab_dynamic_UNobvious\Debug\MyDLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Денис\Desktop\5 ЛАБА\5lab_dynamic_UNobvious\Debug\MyDLL.lib" /MACHINE:X86 /DLL Debug\MyDLL.obj
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+            Создается библиотека C:\Users\Денис\Desktop\5 ЛАБА\5lab_dynamic_UNobvious\Debug\MyDLL.lib и объект C:\Users\Денис\Desktop\5 ЛАБА\5lab_dynamic_UNobvious\Debug\MyDLL.exp
+         ConsoleApplication1.vcxproj -> C:\Users\Денис\Desktop\5 ЛАБА\5lab_dynamic_UNobvious\Debug\MyDLL.dll
+     1>Сборка проекта "C:\Users\Денис\Desktop\5 ЛАБА\5lab_dynamic_UNobvious\ConsoleApplication1\ConsoleApplication1.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.63

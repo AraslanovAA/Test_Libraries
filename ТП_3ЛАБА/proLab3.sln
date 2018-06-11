@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "proLab3", "proLab3\proLab3.vcxproj", "{B1E77876-852C-4945-AD25-4D16D72DA7C5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyDLL_2", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{014B4A23-26AA-42B4-916A-F5B78EE5DA86}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyDLL", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{F259D44B-7757-40FD-A0EE-EA256C587DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E77876-852C-4945-AD25-4D16D72DA7C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1E77876-852C-4945-AD25-4D16D72DA7C5}.Debug|Win32.Build.0 = Debug|Win32
+		{B1E77876-852C-4945-AD25-4D16D72DA7C5}.Release|Win32.ActiveCfg = Release|Win32
+		{B1E77876-852C-4945-AD25-4D16D72DA7C5}.Release|Win32.Build.0 = Release|Win32
+		{014B4A23-26AA-42B4-916A-F5B78EE5DA86}.Debug|Win32.ActiveCfg = Debug|Win32
+		{014B4A23-26AA-42B4-916A-F5B78EE5DA86}.Debug|Win32.Build.0 = Debug|Win32
+		{014B4A23-26AA-42B4-916A-F5B78EE5DA86}.Release|Win32.ActiveCfg = Release|Win32
+		{014B4A23-26AA-42B4-916A-F5B78EE5DA86}.Release|Win32.Build.0 = Release|Win32
+		{F259D44B-7757-40FD-A0EE-EA256C587DBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F259D44B-7757-40FD-A0EE-EA256C587DBE}.Debug|Win32.Build.0 = Debug|Win32
+		{F259D44B-7757-40FD-A0EE-EA256C587DBE}.Release|Win32.ActiveCfg = Release|Win32
+		{F259D44B-7757-40FD-A0EE-EA256C587DBE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

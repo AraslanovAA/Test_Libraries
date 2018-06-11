@@ -1,0 +1,1 @@
+__declspec(dllexport) double Task1(double VA, double VB, double VM, double S);
